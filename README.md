@@ -21,6 +21,7 @@
 - [Programiz](https://www.programiz.com/python-programming/online-compiler/)
 - [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 - [W3Schools](https://www.w3schools.com/python/python_compiler.asp)
+- [Rextester](https://rextester.com/)
 - Куда код сбрасывать:
     1) [GitHub Gist](https://gist.github.com)
     2) [Pastebin](https://pastebin.com)
